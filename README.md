@@ -1,2 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewEdgers&show_icons=true&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEdgers&layout=compact&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AndrewEdgers&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-onlyl#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AndrewEdgers&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-onlyl#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEdgers&layout=compact&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEdgers&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only#gh-light-mode-only)
